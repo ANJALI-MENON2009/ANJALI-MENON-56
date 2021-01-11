@@ -1,0 +1,60 @@
+#image1,
+#image2,
+#image3,
+#image4 {
+    height: 400px;
+    width: 500px;
+    padding: -left: 50px;
+}
+
+.flexbox {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+#h1 {
+    font-size: 50px;
+    color: blue;
+    font-variant: small-caps;
+    font-family: fantasy;
+    text-align: center;
+    text-decoration: overline;
+    text-decoration-color: firebrick;
+}
+
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+#image3 {
+    padding-left: 180px;
+}
+
+#image4 {
+    padding-left: 250px;
+}
+
+#abt2 {
+    padding-left: 30px;
+    text-align: center;
+
+}
+
+#abt3 {
+    padding-left: 20px;
+    text-align: center;
+}
+
+#abt4 {
+    padding-left: 250px;
+    text-align: center;
+}
+
+#image1 {
+    padding-left: 50px;
+}
+
+#image2 {
+    padding-left: 80px;
+}
